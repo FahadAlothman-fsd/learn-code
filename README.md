@@ -1,7 +1,5 @@
 # Learning Languages
 
-<hr>
-
 This repo will contain all the languages i want to learn, which are:
 - gleam
 - julia
@@ -11,7 +9,6 @@ This repo will contain all the languages i want to learn, which are:
 - scala
 
 I will add whenever i find an interesting language.
-<hr>
 
 ## How will I learn?
 
@@ -38,7 +35,6 @@ this webserver will help me learn the following:
 
 with most languages, their isn't core support for http. So i will shop around for libraries/frameworks and pick the most popular one (one with most community support) and go with it.
 
-<hr>
 
 ## When will i stop writing in a particular language
 
